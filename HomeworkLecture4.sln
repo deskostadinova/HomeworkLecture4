@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1CommElements", "Task1C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2MaxSecquence", "Task2MaxSecquence\Task2MaxSecquence.csproj", "{F616CA27-31D4-4903-B941-531BB878E9B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3Train", "Task3Train\Task3Train.csproj", "{C38ECEBB-BD11-4C28-A24B-F4CB874850F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F616CA27-31D4-4903-B941-531BB878E9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F616CA27-31D4-4903-B941-531BB878E9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F616CA27-31D4-4903-B941-531BB878E9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38ECEBB-BD11-4C28-A24B-F4CB874850F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38ECEBB-BD11-4C28-A24B-F4CB874850F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38ECEBB-BD11-4C28-A24B-F4CB874850F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38ECEBB-BD11-4C28-A24B-F4CB874850F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
